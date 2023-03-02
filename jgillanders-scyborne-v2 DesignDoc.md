@@ -8,10 +8,10 @@
 # wonky, however it should work if you land it right. 
 
 # Citations for assets that were NOT my own are listed here. In addition, the title screen
-background was made with DALLE 3. 
+# background was made with DALLE 3. 
 
 # I used these assets from user “ansimuz” on https://opengameart.org/content/industrial-parallax-
-background and https://opengameart.org/content/mountain-at-dusk-background
+# background and https://opengameart.org/content/mountain-at-dusk-background
 
 
 #GDD
