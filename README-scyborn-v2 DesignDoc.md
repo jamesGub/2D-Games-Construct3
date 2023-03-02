@@ -1,4 +1,4 @@
-# Second version of my platformer game inspired by Bloodborne!
+# Second version of my platformer game, Scyborn, which is a tribute to and inspired by Bloodborne!
 # This is a boss-rush gauntlet of sorts, while not finalized, it
 # is the next version of the original platformer made in Construct 3!
 
